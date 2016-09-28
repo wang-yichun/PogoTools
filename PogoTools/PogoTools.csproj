@@ -30,8 +30,9 @@
       <CustomCommands>
         <Command>
           <type>AfterBuild</type>
-          <command>cp PogoTools/bin/${ProjectConfig}/PogoTools.dll ../../Assets/VariousAssets/PogoRock</command>
+          <command>../command_after_build</command>
           <workingdir>${SolutionDir}</workingdir>
+          <externalConsole>True</externalConsole>
         </Command>
       </CustomCommands>
     </CustomCommands>
