@@ -33,6 +33,7 @@
           <command>../command_after_build</command>
           <workingdir>${SolutionDir}</workingdir>
           <externalConsole>True</externalConsole>
+          <pauseExternalConsole>True</pauseExternalConsole>
         </Command>
       </CustomCommands>
     </CustomCommands>
