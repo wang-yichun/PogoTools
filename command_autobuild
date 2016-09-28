@@ -1,0 +1,3 @@
+xbuild /p:Configuration=Release PogoTools.sln
+cp PogoTools/bin/Release/PogoTools.dll ../../Assets/VariousAssets/PogoRock
+echo "Update dll succeed."
