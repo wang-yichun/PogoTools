@@ -30,10 +30,9 @@
       <CustomCommands>
         <Command>
           <type>AfterBuild</type>
-          <command>../command_after_build</command>
+          <command>../command_after_build.sh</command>
           <workingdir>${SolutionDir}</workingdir>
           <externalConsole>True</externalConsole>
-          <pauseExternalConsole>True</pauseExternalConsole>
         </Command>
       </CustomCommands>
     </CustomCommands>
