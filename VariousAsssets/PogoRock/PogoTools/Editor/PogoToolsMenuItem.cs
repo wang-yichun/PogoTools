@@ -5,7 +5,6 @@
 	using UnityEditor;
 	using System.Diagnostics;
 
-	using PogoTools;
 	using System.IO;
 	using System.Text;
 
