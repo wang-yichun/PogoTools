@@ -16,10 +16,10 @@ bin/
 *.svd
 /*.csproj
 /*.unityproj
-/*.sln
+#/*.sln
 /*.suo
 /*.user
-/*.userprefs
+#/*.userprefs
 /*.pidb
 /*.booproj
 

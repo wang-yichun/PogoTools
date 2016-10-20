@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PogoTools/Source/PRDebug.cs">
+    <Files>
+      <File FileName="PogoToolsTest/Program.cs" Line="13" Column="4" />
+      <File FileName="PogoTools/Source/PRDebug.cs" Line="30" Column="4" />
+      <File FileName="PogoTools/Source/PRColor.cs" Line="24" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>PogoTools.csproj</String>
+    <String>PogoToolsTest/PogoToolsTest.csproj</String>
+  </DisabledProjects>
+</Properties>
