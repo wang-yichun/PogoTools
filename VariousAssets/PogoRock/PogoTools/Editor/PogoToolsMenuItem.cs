@@ -5,7 +5,6 @@
 	using UnityEditor;
 	using System.Diagnostics;
 
-	using PogoTools;
 	using System.IO;
 	using System.Text;
 
@@ -16,7 +15,7 @@
 		private static void RebuildPogoTools ()
 		{
 			string app_path = Application.dataPath;
-			string command = Path.Combine (new DirectoryInfo (app_path).Parent.FullName, "SubModules/PogoTools/command_autobuild.sh");
+			string command = Path.Combine (new DirectoryInfo (app_path).Parent.FullName, "Submodules/PogoTools/command_autobuild.sh");
 			processCommand (command);
 		}
 
